@@ -14,7 +14,7 @@ Discord:
 The emoji guild is so that you can have as much emojis as possible in the discord channel without having to clutter your guild with emojis.
 Twitch:
 To use the bot you need to first create a twitch application, to figure out how follow this link:
-[](https://dev.twitch.tv/docs/authentication/register-app).
+[here](https://dev.twitch.tv/docs/authentication/register-app).
 ```json
 {
    "clientID": "CLIENT ID",
