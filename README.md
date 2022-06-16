@@ -23,6 +23,14 @@ To use the bot you need to first create a twitch application, to figure out how 
 }
 ```
 
+## Running
+To run the bot just run the following command:
+```bash
+npm i
+
+node twitch/client.js
+```
+
 ## The node-twitch library
 For whom it may concern, the node-twitch library is here specified directly because the original NPM project doesn't have the features and the owner of it
 didn't merge my PR yet ;). So i had to include it here directly.
