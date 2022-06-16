@@ -1,6 +1,3 @@
-[submodule "node-modules/node-twitch"]
-	path = node-modules/node-twitch
-	url = https://github.com/Nowilltolife/node-twitch
 [submodule "node_modules/node-twitch"]
 	path = node_modules/node-twitch
 	url = https://github.com/Nowilltolife/node-twitch
