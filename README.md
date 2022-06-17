@@ -2,6 +2,12 @@
 Discord bot to realy twitch chat on discord with emote and badge support.
 
 ## Setup
+To download you need to either download the [node-twitch](https://github.com/Nowilltolife/node-twitch) project directly and place it at `node_modules/node-twitch` manually   
+Or download it via the `git` cli commands
+```bash
+git clone --recursive https://github.com/Nowilltolife/discord-relay-bot
+```
+
 To setup just enter the information into the twitch/config.json and discord/config.json files.
 Discord:
 ```json
