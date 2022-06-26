@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "lib": ["ESNext"],
+		"target": "ES2021",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "declaration": true,
+        "resolveJsonModule": true,
+        "strict": true
+    },
+    "include": [
+        "twitch/**/*.ts",
+        "twitch/**/*.js",
+        "discord/**/*.ts",
+        "discord/**/*.js",
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts",
+        "dist",
+    ],
+}
